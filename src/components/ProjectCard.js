@@ -12,7 +12,7 @@ export const ProjectCard = ({ title, description, imgUrl  }) => {
     },
     "Recipe-App": {
       firstLink: "https://github.com/Hazikkk/Recipe-app",
-      secondLink: "https://recipe-app-phi-rosy.vercel.app/",
+      secondLink: "https://getrecipe-app.vercel.app/",
     },
     "Travel-App": {
       firstLink: "https://github.com/Hazikkk/Travel-Website",
